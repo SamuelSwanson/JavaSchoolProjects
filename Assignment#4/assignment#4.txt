@@ -1,0 +1,20 @@
+TF;A class that implements an interface must make a method for each method in the interface;true;3
+FB;A ____ method can be written in an interface to add new functionality to the interface;default;10
+TF;A string has 5 of the same delimiters(,) you can use split(",",1,3) to get the strings between the first and third delimiter?;false;5
+MC;What is the result of this String example = "yes|no|maybe", String[] split = example.split("|");3;,y,e,s,n,o,m,a,y,b,e;yes,no,maybe;,yes,no,maybe;a;15
+TF;split("\\|") or split("[|]") is what you need to use for a pipe-delimited string;true;5
+TF;Using an iterator will throw a ConcurrentModificationException while removing elements from an arraylist during iteration;false;5
+TF;System.out and System.err are apart of the same output stream;false;5
+FB;A ___ declaration of a variable means the variable will never change;final;5
+FB;The class written within a class is called a ___;nested class;10
+TF;A nested class must be private;false;5
+FB;A ___ is a class whose object wraps or contains a primitive data types.;wrapper class;15
+MC;Automatic conversion of primitive types to the object of their corresponding wrapper classes is known as autoboxing.;5;autoboxing;autowrapping;automation;autofilling;autoloading;a;10
+MC;Automatically converting an object of a wrapper class to its corresponding primitive type is known as;5;unpacking;unwrapping;unboxing;unrolling;uncovering;c;10
+FB;___ also known as compile time polymorphism;Static Polymorphism;10
+FB;___ also known as runtime polymorphism;Dynamic Polymorphism;10
+FB;___ is a list of constants;enum;10
+MC;An enum is best used with a ___ statement;3;if;switch;do-while;b;5
+MC;What does uml stand for;4;unified modeling language;unified mapping list;unified mapping language;unified modeling list;a;5
+FB;The ___ method of Object class is a method that the Garbage Collector always calls just before the deletion;finalize;5
+TF;Bubble sort is always the best sorting algorthim to use;false;5
